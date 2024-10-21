@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hello, I'm Monalisa! </h1>
+<h1 align="center"> 🌸 Hi, I'm Monalisa! </h1>
 <h3 align="center">A neat freak who loves organizing everything from things to data! </h3>
 
 
@@ -19,8 +19,7 @@
 
 <p align="left">
 <h3 align="left">Find me here:</h3> 
-<a href="https://discord.gg/wallflowerpot"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a> 
-</p>
+<a href="https://discord.gg/wallflowerpot"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a> <a href="https://pinterest.com/YOUR_PINTEREST_USERNAME"><img src="https://img.shields.io/static/v1?logo=pinterest&label=&message=Pinterest&color=E60023&style=flat-square" alt="Pinterest"></a> </p>
 
 <p align="left">
 <h3 align="left">My Preferred Tools</h3>
