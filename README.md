@@ -12,7 +12,7 @@
 - 🔬 Data Scientist with a background in **Zoology** 
 - 🧠 Currently working on **realtime multilingual sentiment analysis** and **web development projects**
 - 🗂 Obsessed with organizing everything—from datasets to daily activities
-- 💬 Ask me anything ranging from **Biology** **Data Science** **Everything DIY** **Web Development** and **Automation**
+- 💬 Ask me anything ranging from **Biology**, **Data Science**, **Everything DIY**, **Web Development** and **Automation**
 - 🧑‍💻 I’m looking to collaborate on anything that I find interesting
 - 📫 Contact me at **ellora.code@gmail.com**
 - 🌱 Fun fact: My love for **biology** and **data science** blends perfectly!
