@@ -10,10 +10,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ellora11&label=Profile%20views&color=0e75b6&style=flat" alt="ellora11" /> </p>
 
 - 🔬 Data Scientist with a background in **Zoology** 
-- 🧠 Currently working on **sentiment analysis** and task automation projects
+- 🧠 Currently working on **realtime multilingual sentiment analysis** and **web development projects**
 - 🗂 Obsessed with organizing everything—from datasets to daily activities
-- 💬 Ask me about **Data Science** and **Airtable Automation**
-- 🧑‍💻 I’m looking to collaborate on **AI and automation projects**
+- 💬 Ask me anything ranging from **Biology** **Data Science** **Everything DIY** **Web Development** and **Automation**
+- 🧑‍💻 I’m looking to collaborate on anything that I find interesting
 - 📫 Contact me at **ellora.code@gmail.com**
 - 🌱 Fun fact: My love for **biology** and **data science** blends perfectly!
 
