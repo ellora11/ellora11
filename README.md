@@ -1,9 +1,6 @@
 <h1 align="center"> 👋 Hello, I'm Monalisa! </h1>
 <h3 align="center">A neat freak who loves organizing everything from things to data! </h3>
 
-<p align='center'>
-<img src="https://lanyard.kyrie25.me/api/your_discord_id?theme=dark&borderRadius=9px&bg=282a36&idleMessage=Probably organizing my datasets..." />
-</p> 
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula" width="410"></a>
